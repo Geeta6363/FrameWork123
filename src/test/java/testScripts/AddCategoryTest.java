@@ -7,7 +7,7 @@ import org.testng.asserts.SoftAssert;
 
 import genericUtilities.BaseClass;
 import genericUtilities.IconstantPath;
-
+//sweta is etc
 public class AddCategoryTest extends BaseClass {
 	@Test
 	public void addCategoryTest() {
